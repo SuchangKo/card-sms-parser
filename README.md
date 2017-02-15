@@ -61,7 +61,7 @@
 
 ~~우리카드~~
 
-~~KB국민카드~~ (결제문자 제공 : [qbox2](https://github.com/qbox2))
+~~KB국민카드~~ (결제문자 제공 : [qbx2](https://github.com/qbx2))
 
 ~~하나카드~~
 
