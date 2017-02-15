@@ -9,11 +9,11 @@
 
 ~~비씨카드~~
 
-~~삼성카드~~ (결제문자 제공 : suchangko)
+~~삼성카드~~ (결제문자 제공 : [suchangko](https://github.com/suchangko))
 
-~~KB국민카드~~ (결제문자 제공 : shlee322)
+~~KB국민카드~~ (결제문자 제공 : [shlee322](https://github.com/shlee322))
 
-~~현대카드~~ (결제문자 제공 : suchangko)
+~~현대카드~~ (결제문자 제공 : [suchangko](https://github.com/suchangko))
 
 ~~하나카드~~
 
@@ -23,7 +23,7 @@
 
 ~~SC은행 리워드카드~~
 
-~~우리카드~~ (결제문자 제공 : suchangko)
+~~우리카드~~ (결제문자 제공 : [suchangko](https://github.com/suchangko))
 
 ~~제주카드~~
 
@@ -61,7 +61,7 @@
 
 ~~우리카드~~
 
-~~KB국민카드~~ (결제문자 제공 : qbox2)
+~~KB국민카드~~ (결제문자 제공 : [qbox2](https://github.com/qbox2))
 
 ~~하나카드~~
 
